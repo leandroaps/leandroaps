@@ -1,4 +1,4 @@
-### Hi there, I'm Leandro AKA Siqueira! 👋
+### Hi there, I'm Leandro aka Siqueira! 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=guilhermesantoss&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
