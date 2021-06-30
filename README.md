@@ -1,6 +1,6 @@
 ### Hi there, I'm Leandro aka Siqueira! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=leandroaps&show_icons=true&theme=dracula)](https://github.com/leandroaps/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=leandroaps&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=?style=flat-square&logo=appveyor&logo=Github&logoColor=white&link=https://github.com/leandroaps)](https://github.com/leandroaps)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroaps/)](https://www.linkedin.com/in/leandroaps/)
