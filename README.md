@@ -1,5 +1,4 @@
-## 💜 Hey you, my name is Leandro and I`m a Front-end Developer from Brazil!!!
----
+# 💜 Hey you, my name is Leandro and I`m a Front-end Developer from Brazil!!!
 
 ## ⭐ My GitHub
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroaps)](https://github.com/anuraghazra/github-readme-stats)
