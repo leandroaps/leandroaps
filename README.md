@@ -1,4 +1,7 @@
-# 💜 Hey you, my name is Leandro and I`m a Front-end Developer from Brazil!!!
+# Hey you!
+**My name is Leandro.**
+- I`m a Front-end Developer from Brazil!
+- Passionate for reading, travelling, working, movies and series and fan of Diablo 3.
 
 ## STATS
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroaps)](https://github.com/anuraghazra/github-readme-stats)
