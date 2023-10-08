@@ -1,4 +1,4 @@
-# Hey you!
+# Hey you, Don't give in, without a fight!
 **My name is Leandro.**
 - I`m a Front-end Developer from Brazil!
 - Passionate for reading, travelling, working, movies and series and fan of Diablo 3.
