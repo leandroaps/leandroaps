@@ -3,6 +3,7 @@
 **Senior Front-End Engineer
 React & TypeScript · Technical Lead
 Agile · 20+ Years of Experience**
+
 Campinas, São Paulo, Brazil
 
 ---
@@ -41,23 +42,6 @@ Building high-performance web applications with React and TypeScript. I combine 
 ![Technical Lead](https://img.shields.io/badge/Technical%20Leadership-222222?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4CAF50?style=flat-square)
 ![Accessibility](https://img.shields.io/badge/Accessibility%20%26%20SEO-7B7B7B?style=flat-square)
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=leandroaps&show_icons=true&hide_border=true&count_private=true&hide_title=true&icon_color=222222&text_color=7B7B7B&bg_color=ffffff"
-    alt="GitHub stats"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaps&layout=compact&hide_border=true&hide_title=true&text_color=7B7B7B&bg_color=ffffff&langs_count=6"
-    alt="Top languages"
-    height="150"
-  />
-</p>
 
 ---
 
