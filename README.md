@@ -1,7 +1,9 @@
 # Leandro Aparecido de Siqueira
 
-**Senior Front-End Engineer · Technical Lead · Agile Master**
-Campinas, São Paulo, Brazil · 20+ years of experience
+**Senior Front-End Engineer
+React & TypeScript · Technical Lead
+Agile · 20+ Years of Experience**
+Campinas, São Paulo, Brazil
 
 ---
 
