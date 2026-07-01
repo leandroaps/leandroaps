@@ -61,7 +61,7 @@ Building high-performance web applications with React and TypeScript. I combine 
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-leandroaps.com-222222?style=flat-square)](https://leandroaps.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-leandroaps.com-222222?style=flat-square)](https://leandroaps.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leandroaps-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroaps)
 [![Medium](https://img.shields.io/badge/Medium-@leandroaps-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@leandroaps)
 [![Email](https://img.shields.io/badge/Email-leandroaps@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leandroaps@gmail.com)
