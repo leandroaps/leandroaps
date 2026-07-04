@@ -1,18 +1,32 @@
 # Leandro Aparecido de Siqueira
 
-**Senior Front-End Engineer
-React & TypeScript · Technical Lead
-Agile · 20+ Years of Experience**
+**Senior Front-End Engineer · React & TypeScript · AI-Assisted Engineering · Technical Lead · 20+ Years of Experience**
 
-Campinas, São Paulo, Brazil
+📍 Campinas, São Paulo, Brazil
 
 ---
 
-Building high-performance web applications with React and TypeScript. I combine deep technical expertise with leadership and Agile practices to deliver scalable, accessible, and user-focused solutions for enterprise clients across finance, health, and media.
+Building high-performance web applications with React and TypeScript for over two decades. I combine deep technical expertise with leadership and Agile practices to deliver scalable, accessible, and user-focused solutions for enterprise clients across **finance, health, media, and consumer brands**.
+
+Currently exploring how AI-assisted engineering (Claude Code, LLM-powered workflows) can amplify developer productivity without sacrificing code quality.
 
 ---
 
-## Tech Stack
+## 🚀 Highlights
+
+- ⚡ Led a front-end performance overhaul that **boosted application performance by 300%** and cut the bundle to **less than ¼ of its original size** by migrating to Vite
+- ✅ Migrated a legacy test suite to Vitest, reaching **80%+ code coverage**
+- 🏦 Delivered enterprise projects for **Itaú Unibanco**, Brazil's largest private bank, as Technical Lead
+- 🌎 Built consumer-facing sites for **Johnson & Johnson brands** (Neutrogena, Listerine, ACUVUE) serving millions of US users
+- 👥 Grew from hands-on developer to **Technical Lead and Agile Master**, mentoring teams and defining front-end architecture
+
+## 💼 Where I've Worked
+
+`Venturus` · `Itaú Unibanco` · `UOL` · `Pravaler` · `Vitat` · `3M` · `Ci&T (Johnson & Johnson)`
+
+---
+
+## 🛠 Tech Stack
 
 **Frontend**
 
@@ -25,7 +39,7 @@ Building high-performance web applications with React and TypeScript. I combine 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
 
-**Tools & Infrastructure**
+**Build, Testing & Infrastructure**
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
@@ -36,6 +50,11 @@ Building high-performance web applications with React and TypeScript. I combine 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+**AI-Assisted Engineering**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/AI_Pair_Programming-000000?style=flat-square&logo=github&logoColor=white)
+
 **Practices & Leadership**
 
 ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=flat-square)
@@ -45,9 +64,26 @@ Building high-performance web applications with React and TypeScript. I combine 
 
 ---
 
-## Connect
+## 📊 GitHub Stats
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-leandroaps.com-222222?style=flat-square)](https://leandroaps.com.br)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leandroaps&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaps&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 🔭 Currently
+
+- 🏢 Senior Front-End Software Engineer building enterprise-grade applications with React, TypeScript & Ant Design
+- 🤖 Deepening my practice of AI-assisted engineering and developer-productivity tooling
+- ✍️ Writing about front-end and engineering on [Medium](https://medium.com/@leandroaps)
+
+---
+
+## 🤝 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-leandroaps.com.br-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://leandroaps.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leandroaps-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandroaps)
 [![Medium](https://img.shields.io/badge/Medium-@leandroaps-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@leandroaps)
 [![Email](https://img.shields.io/badge/Email-leandroaps@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leandroaps@gmail.com)
